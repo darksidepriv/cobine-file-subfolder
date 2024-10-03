@@ -18,4 +18,4 @@ Aplikasi Python ini bertujuan untuk menyalin semua file dari sebuah folder sumbe
 1. Pastikan Anda telah menginstal **Python 3.x** di sistem Anda.
 2. Clone repositori ini ke direktori lokal Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/darksidepriv/cobine-file-subfolder
